@@ -8,7 +8,7 @@ loginBtn.addEventListener("click",function(){
     loginArea.style.display ='none';
     transacitonArea.style.display ='block'
 })
-//deposit//
+//deposit button//
 
 const depositBtn = document.getElementById('addDeposit');
 depositBtn.addEventListener("click",function(){
